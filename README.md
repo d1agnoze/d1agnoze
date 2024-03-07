@@ -3,13 +3,17 @@ A beginner programmer trying his best not to be a soydev 😭
 (I use Arch and Vim btw 😎)
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=d1agnoze&icon=7&color=3)](https://visitcount.itsvg.in)
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=d1agnoze&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=d1agnoze&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=d1agnoze&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d1agnoze&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=d1agnoze&theme=gruvbox&hide_border=true)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d1agnoze&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
@@ -19,10 +23,6 @@ A beginner programmer trying his best not to be a soydev 😭
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/d1ag) 
-
----
-[![](https://visitcount.itsvg.in/api?id=d1agnoze&icon=7&color=3)](https://visitcount.itsvg.in)
-
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
