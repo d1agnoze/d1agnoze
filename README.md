@@ -1,8 +1,5 @@
 # 💫 About Me:
-A beginner programmer trying his best not to be a soydev 😭  
-(I use Arch and Vim btw 😎)
-
-
+A beginner programmer, that's it
 ---
 [![](https://visitcount.itsvg.in/api?id=d1agnoze&icon=7&color=3)](https://visitcount.itsvg.in)
 
