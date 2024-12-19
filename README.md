@@ -4,11 +4,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/d1agnoze?style=flat&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/d1agnoze?style=flat&color=green)
 
-**[<kbd> <br> Main <br> </kbd>](#about-me)**
+**[<kbd> <br> About me! <br> </kbd>](#about-me)**
 **[<kbd> <br> Donate <br> </kbd>](#donate)**
 
-What is your sole purpose of existence?
-> idk yet, to do computer type shii maybe
+love doing computer type shii
 
 What are your doing now?
 > cooking up some monstrosities of software
