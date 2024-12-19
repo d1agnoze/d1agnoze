@@ -1,16 +1,14 @@
 # Nguyen ```'Vdac'``` Dac Vuong
+> cooking up some monstrosities of software
+
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/d1agnoze)
 ![Static Badge](https://img.shields.io/badge/user-vdac-green)
 ![GitHub followers](https://img.shields.io/github/followers/d1agnoze?style=flat&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/d1agnoze?style=flat&color=green)
 
-**[<kbd> <br> About me! <br> </kbd>](#about-me)**
-**[<kbd> <br> Donate <br> </kbd>](#donate)**
+**[<kbd> <br> About me! <br> </kbd>](#about-me)   [<kbd> <br> Donate <br> </kbd>](#donate)**
 
 love doing computer type shii
-
-What are your doing now?
-> cooking up some monstrosities of software
 
 ### About me
 ``` txt
